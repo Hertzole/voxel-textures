@@ -18,3 +18,5 @@ I commented the code to the best of my abilities so you can hopefully see how it
 
 ## Credits
 [bbtarzan12](https://github.com/bbtarzan12) and their repository for the shader and base code.
+
+![Image](https://github.com/Hertzole/voxel-textures/blob/master/Screenshot.png)
